@@ -1,0 +1,29 @@
+{
+    "runOptions": {
+        "debug": "true"
+    },
+    "layerOptions": {
+        "bgColor": "true",
+        "includeTvBg": "true",
+        "bgColorPalette": "pantone-colors-of-the-year",
+        "bgImagePath": "/media/jrod/5-TB-1/Photos/Finepix6/pics",
+        "tvBottomsOffsets": [
+            [0,0,"fuck"],
+            [0,0,"in"],
+            [0,0,"alarmbells"],
+            [0,0,"no"],
+            [0,0,"mercy"],
+            [0,0,"suspect"],
+            [0,0,"liestruth"],
+            [0,0,"bear"],
+            [0,0,"virus"],
+            [0,0,"x"],
+            [60,20,"boobs"],
+            [0,0,"boss"],
+            [0,0,"yes"],
+            [0,0,"noices"],
+            [0,0,"no"],
+            [20,0,"shhhh"]
+        ]
+    }
+}
